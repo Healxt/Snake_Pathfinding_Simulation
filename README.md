@@ -23,7 +23,7 @@ Ein klassisches Snake-Spiel Simulation in C++ mit SDL2, erweitert um Bewegung mi
 ## Features
 
 - **Klassisches Snake-Gameplay** mit flüssiger SDL2-Grafik
-- **KI-AutoPlay-Modus** mit visueller Pfadanzeige
+- **AutoPlay-Modus** mit visueller Pfadanzeige
 - **Zwei Pathfinding-Algorithmen**: BFS und Dijkstra
 - **Dynamisches Level-System** mit 6+ verschiedenen Hindernis-Mustern
 - **HUD mit Score-Anzeige** und Steuerungshinweisen
